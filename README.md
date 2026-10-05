@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/status-open_to_Winter_2027_co--op_%2F_internships-7ee787?style=for-the-badge&labelColor=0a0c10" alt="open to Winter 2027 co-op / internships" />
 </p>
 
-> 🔎 **Looking for a Winter 2027 co-op or internship** in **ML / AI, data science, or business analytics**. Let's talk: [janacompsci@gmail.com](mailto:janacompsci@gmail.com)
+> 🔎 **Looking for a Winter 2027 co-op or internship** in **ML / AI, data science, or business analytics**.[janacompsci@gmail.com](mailto:janacompsci@gmail.com)
 
 ~~~python
 class Janapriya:
