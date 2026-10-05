@@ -21,8 +21,7 @@ class Janapriya:
     roles    = {
         "UR2PhD":          "RL Research Assistant",
         "CCWJ, UAlberta":  "Research Assistant",
-        "Layer by Layer":  "VP, Design",
-        "Unitea":          "Outreach Host",
+        "Layer by Layer":  "VP, Design", ...    
     }
 ```
 
