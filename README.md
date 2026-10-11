@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://Janacreates.github.io"><img src="https://img.shields.io/badge/portfolio-b02d5c?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/janapriya-prathap-gajalakshmi-a2608a413"><img src="https://img.shields.io/badge/linkedin-b02d5c?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://Janacreates.github.io"><img src="https://img.shields.io/badge/%E2%9C%BF_portfolio-b02d5c?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/janapriya-prathap-gajalakshmi-a2608a413"><img src="https://img.shields.io/badge/linkedin-b02d5c?style=for-the-badge" /></a>
   <a href="mailto:janacompsci@gmail.com"><img src="https://img.shields.io/badge/email-b02d5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
